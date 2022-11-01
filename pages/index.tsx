@@ -14,9 +14,9 @@ const Home = () => {
         <div className="flex items-center justify-center flex-wrap bg-gradient-to-r from-cyan-500 via-blue-900 to-blue-500 w-full h-full opacity-90">
           <div className="border-4 border-blue-600 rounded-full w-52 h-52 bg-cover bg-[url('/img/Me.jpeg')]" />
           <div className=" mx-5 text-white flex flex-col h-52 justify-center">
-            <span className="text-6xl">Hello I'm DRAOUI Bilal!</span>
+            <span className="text-6xl">Hello I&apos;m DRAOUI Bilal!</span>
             <span className="text-xl my-5">
-              <span className="mt-3 ml-1">LET'S CONNECT<span className="text-yellow-500 font-bold">&nbsp; &gt;</span></span>
+              <span className="mt-3 ml-1">LET&apos;S CONNECT<span className="text-yellow-500 font-bold">&nbsp; &gt;</span></span>
               <span className="ml-5 inline">
                 <Link target={"_blank"} className="mr-10" href="https://www.linkedin.com/in/bilal-draoui/"><Image className="inline" src="/icons/linkedin.png" height={24} width={24} alt="LinkedIn logo" /></Link>
                 <Link target={"_blank"} className="mr-10" href="https://www.facebook.com/profile.php?id=100009523967316"><Image className="inline" src="/icons/facebook.png" height={24} width={24} alt="LinkedIn logo" /></Link>
@@ -31,10 +31,10 @@ const Home = () => {
           <div>
             <h1 className="text-blue-600 text-7xl text-extrabold">QUI SUIS-JE ?</h1>
             <h3 className="my-8 mx-3 text-3xl">
-              Je m'appelle DRAOUI Bilal. Je suis un étudiant en Master 2 Ingénierie parcours UBINET.
+              Je m&apos;appelle DRAOUI Bilal. Je suis un étudiant en Master 2 Ingénierie parcours UBINET.
             </h3>
             <p className="text-slate-500 mx-3">
-              J'ai des compétences en intelligence artificielle(Machine learning avec scikit learn et Deep Learning avec Tensorflow/Keras), DEVOPS (Git, Github, Docker, Kubernetes), développement WEB(Nextjs, Nestjs, Typescript, JEE, ReactJS, Node.js, PHP...) et en development Desktop (Python, Java SE, C++, C#, ... ) et aussi dans les SGBDR (MySQL, Postgresql, Oracle, SQLServer) and NoSQL (MongoDB, Cassadra, Neo4J) databases, with experience in "Competitive Programming" (MCPC 2021, Code IT 5.0) with C/C++.
+              J&apos;ai des compétences en intelligence artificielle(Machine learning avec scikit learn et Deep Learning avec Tensorflow/Keras), DEVOPS (Git, Github, Docker, Kubernetes), développement WEB(Nextjs, Nestjs, Typescript, JEE, ReactJS, Node.js, PHP...) et en development Desktop (Python, Java SE, C++, C#, ... ) et aussi dans les SGBDR (MySQL, Postgresql, Oracle, SQLServer) and NoSQL (MongoDB, Cassadra, Neo4J) databases, with experience in "Competitive Programming" (MCPC 2021, Code IT 5.0) with C/C++.
             </p>
           </div>
         </div>
@@ -144,7 +144,7 @@ const Home = () => {
                     </div>
 
                     <div className="ml-10">
-                      <div className="font-bold">Cycle d'ingénieur en informatique</div>
+                      <div className="font-bold">Cycle d&apos;ingénieur en informatique</div>
                       <div className="italic md:mb-4">Ecole Nationale des Sciences Appliquées de Tanger</div>
                       <div className="mb-4 mt-2 md:hidden">
                         <div className="font-bold">2021</div>
@@ -289,7 +289,7 @@ const Home = () => {
                         <div className="text-xs">Abril - Junio</div>
                       </div>
                       <div className="mb-10">
-                        Création d'une application web pour crée, réaliser, et consulter des audits.
+                        Création d&apos;une application web pour crée, réaliser, et consulter des audits.
                       </div>
                     </div>
                   </div>
@@ -310,7 +310,7 @@ const Home = () => {
                     </div>
 
                     <div className="ml-10">
-                      <div className="font-bold">Stage d'application</div>
+                      <div className="font-bold">Stage d&apos;application</div>
                       <div className="italic md:mb-4">Tanger Alliance</div>
                       <div className="mb-4 mt-2 md:hidden">
                         <div className="font-bold">2021</div>
@@ -319,8 +319,8 @@ const Home = () => {
                       <div className="mb-10">
                         Trois tâches principales:
                         <ul>
-                          <li>&emsp;- Création du site web officiel de l'entreprise.</li>
-                          <li>&emsp;- Création d'une application web pour gérer les services offerts par l'entreprise.</li>
+                          <li>&emsp;- Création du site web officiel de l&apos;entreprise.</li>
+                          <li>&emsp;- Création d&apos;une application web pour gérer les services offerts par l&apos;entreprise.</li>
                         </ul>
                       </div>
                     </div>

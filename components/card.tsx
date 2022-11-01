@@ -46,8 +46,8 @@ const Card = ({ project }: props) => {
                         <div className="flex items-center w-full justify-evenly ">
 
                             <div className="flex items-center justify-evenly flex-wrap w-full">
-                                {tags.map((tag) => (
-                                    <span className="text-white bg-blue-600 inline-flex items-center my-1 leading-none px-2.5 py-1.5 text-sm font-medium text-skin-inverted rounded-full border border-blue-600 border-skin-input">
+                                {tags.map((tag,index) => (
+                                    <span key={index} className="text-white bg-blue-600 inline-flex items-center my-1 leading-none px-2.5 py-1.5 text-sm font-medium text-skin-inverted rounded-full border border-blue-600 border-skin-input">
                                         {tag}
                                     </span>
                                 ))}
