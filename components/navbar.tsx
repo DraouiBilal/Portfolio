@@ -3,7 +3,7 @@ import Link from "next/link"
 const Navbar = () => {
 
     return (
-        <div className="text-white font-bold w-full h-20 bg-gradient-to-r from-cyan-500 via-blue-900 to-blue-500 flex items-center justify-center">
+        <div className="text-white font-bold w-full h-24 bg-gradient-to-r from-cyan-500 via-blue-900 to-blue-500 flex items-center justify-center">
             <Link href="/" className="mx-5 cursor-pointer hover:underline decoration-2 decoration-purple-500 underline-offset-4">
                 A PROPOS DE MOI
             </Link>

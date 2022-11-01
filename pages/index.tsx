@@ -1,6 +1,12 @@
 import Image from "next/image"
 import Link from "next/link"
 
+export async function getStaticProps() {
+  return {
+    props: {}, // will be passed to the page component as props
+  }
+}
+
 const Home = () => {
   return (
     <>
