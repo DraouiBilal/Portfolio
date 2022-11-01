@@ -34,7 +34,7 @@ const Home = () => {
               Je m&apos;appelle DRAOUI Bilal. Je suis un étudiant en Master 2 Ingénierie parcours UBINET.
             </h3>
             <p className="text-slate-500 mx-3">
-              J&apos;ai des compétences en intelligence artificielle(Machine learning avec scikit learn et Deep Learning avec Tensorflow/Keras), DEVOPS (Git, Github, Docker, Kubernetes), développement WEB(Nextjs, Nestjs, Typescript, JEE, ReactJS, Node.js, PHP...) et en development Desktop (Python, Java SE, C++, C#, ... ) et aussi dans les SGBDR (MySQL, Postgresql, Oracle, SQLServer) and NoSQL (MongoDB, Cassadra, Neo4J) databases, with experience in "Competitive Programming" (MCPC 2021, Code IT 5.0) with C/C++.
+              J&apos;ai des compétences en intelligence artificielle(Machine learning avec scikit learn et Deep Learning avec Tensorflow/Keras), DEVOPS (Git, Github, Docker, Kubernetes), développement WEB(Nextjs, Nestjs, Typescript, JEE, ReactJS, Node.js, PHP...) et en development Desktop (Python, Java SE, C++, C#, ... ) et aussi dans les SGBDR (MySQL, Postgresql, Oracle, SQLServer) and NoSQL (MongoDB, Cassadra, Neo4J) databases, with experience in &quot;Competitive Programming&quot; (MCPC 2021, Code IT 5.0) with C/C++.
             </p>
           </div>
         </div>
