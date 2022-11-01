@@ -64,13 +64,13 @@ const Projects = () => {
             <h1 className="text-blue-600 text-7xl text-extrabold text-center py-10">Mes projets</h1>
 
             <h3 className="my-8 mx-3 text-3xl text-center">
-              Voici une liste de projets sur lesquels j'ai travaillé 
+              Voici une liste de projets sur lesquels j&apos;ai travaillé 
             </h3>
 
             <div className="flex flex-wrap ">
                 {
-                    projects.map((project) => (
-                        <Card project={project} />
+                    projects.map((project,index) => (
+                        <Card key={index} project={project} />
                     ))
                 }
             </div>
