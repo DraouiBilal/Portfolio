@@ -8,7 +8,7 @@ function MyApp({
 }: AppProps) {
 
     return (
-        <div className="font-sans">
+        <div className="font-sans mx-auto" style={{maxWidth:"1366px"}}>
             <nav>
                 <Navbar />
             </nav>
